@@ -38,3 +38,12 @@ header .col-3 i {
     background-color: rgb(206, 66, 0);
     width: 120px;
 }
+
+.ms_rounded {
+    border-radius: 10px;
+}
+
+.ms_border1:hover {
+    border-radius: 15px;
+    border: 2px solid rgb(0, 60, 255);
+}
