@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* ms_classes */
+
+
+
+/* ms_style */
+
+.ms_cf1 {
+    background-color: black;
+    min-height: 25px;
+}
+
+header .col-3 img {
+    width: 55px;
+}
+
+header .col-3 i {
+    font-size: 22px;
+}
+
+.ms_cf2 {
+    min-height: 660px;
+    color: white;
+    background-image: url(img/jumbo-bg.png);
+    background-position: center;
+}
+
+.ms_button {
+    background-color: rgb(206, 66, 0);
+    width: 120px;
+}
