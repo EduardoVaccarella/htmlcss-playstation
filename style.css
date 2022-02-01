@@ -63,3 +63,69 @@ nav {
 #ms_color2 {
     color: white;
 }
+
+#ms_color3 {
+    color: rgb(0, 60, 255);
+}
+
+.ms_buttonx {
+    color: white;
+    background-color:rgb(0, 60, 255);
+    width: 189px;
+}
+
+.ms_borderb:active {
+    border-bottom: 2px solid rgb(0, 60, 255);
+}
+
+.ms_filterb {
+    filter: opacity(60%);
+}
+
+.ms_filterb:hover {
+    filter: opacity(100%);
+}
+
+.ms_color4 {
+    color: grey;
+    font-weight: 400;
+}
+
+.ms_cf4 {
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+}
+
+.ms_width-button {
+    width: 121px;
+}
+
+.ms_width-button1 {
+    width: 203px;
+}
+
+.ms_cf5 {
+    background-color: grey;
+}
+
+.ms_cf6 {
+    background-color: rgb(0, 0, 99);
+}
+
+#ms_button3 {
+    background-color: white;
+    color: black;
+}
+
+#ms_button4 {
+    background-color: lightgray;
+    color: rgb(0, 60, 255);
+}
+
+.ms_cf7 {
+    background-color: rgb(0, 60, 255);
+}
+
+#ms_width-logo {
+    width: 150px;
+    filter: brightness(0) invert(1);
+}
