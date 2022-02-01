@@ -47,3 +47,19 @@ header .col-3 i {
     border-radius: 15px;
     border: 2px solid rgb(0, 60, 255);
 }
+
+.ms_button1 {
+    color: white;
+}
+
+nav {
+    font-weight: bold;
+}
+
+#ms_color1 {
+    color: black;
+}
+
+#ms_color2 {
+    color: white;
+}
