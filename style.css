@@ -130,3 +130,7 @@ nav {
     width: 150px;
     filter: brightness(0) invert(1);
 }
+
+#hidden {
+    display: none;
+}

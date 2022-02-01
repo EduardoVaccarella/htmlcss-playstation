@@ -1,0 +1,7 @@
+/* md devices */
+
+@media all and (min-width: 768px) {
+    #hidden {
+        display: block;
+    }
+}
